@@ -29,11 +29,11 @@ h1{ margin-top: 0; }
 
 .home .left{
   flex: 1;
-  min-width: 240px;
+  min-width: 280px;
 }
 
 .home .right{
-  width: 200px;
+  width: 240px;
 }
 
 .headshot{
